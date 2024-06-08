@@ -1,0 +1,3 @@
+multisig_script = """
+<script content here>
+"""

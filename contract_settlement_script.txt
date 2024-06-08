@@ -1,0 +1,3 @@
+contract_settlement_script = """
+<script content here>
+"""

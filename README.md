@@ -17,9 +17,20 @@ Features
 
 Requirements
 
-Python 3.x
+1) Python 3.x
 
-bit library (for Bitcoin scripting)
+2) bit library (for Bitcoin scripting)
 
-bitcoinlib library (for Bitcoin-related utilities)
+3) bitcoinlib library (for Bitcoin-related utilities)
 
+Run the scripts individually:
+
+- multisig_script.py: Generates a multisig address for collateral handling.
+
+- collateral_script.py: Verifies the borrower's collateral deposit.
+
+- loan_funding_script.py: Ensures the lender sends the loan amount to the borrower.
+
+- repayment_script.py: Handles borrower repayments and enforces a time lock for late payments.
+
+- contract_settlement_script.py: Handles the release or claim of the collateral based on repayment status.

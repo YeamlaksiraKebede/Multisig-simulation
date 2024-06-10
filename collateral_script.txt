@@ -1,3 +1,0 @@
-collateral_script = """
-<script content here>
-"""

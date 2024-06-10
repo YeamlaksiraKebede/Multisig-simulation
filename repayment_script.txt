@@ -1,3 +1,0 @@
-repayment_script = """
-<script content here>
-"""

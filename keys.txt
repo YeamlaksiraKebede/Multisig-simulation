@@ -1,3 +1,0 @@
-borrower_key: private_key_for_borrower
-lender_key: private_key_for_lender
-oracle_key: private_key_for_oracle
